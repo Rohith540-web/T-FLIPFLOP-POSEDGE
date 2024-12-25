@@ -58,7 +58,7 @@ Developed by:Rohith V RegisterNumber:24900447
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
 
-![Screenshot (64)](https://github.com/user-attachments/assets/f2b8be2a-13ad-49fe-b0e2-d16967e8cb93)
+![WhatsApp Image 2024-12-25 at 09 47 01_943dca3b](https://github.com/user-attachments/assets/ddc4bdb0-dbfd-4eda-9039-53a2e5e0d370)
 
 
 **RESULTS**
