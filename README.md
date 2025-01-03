@@ -1,4 +1,4 @@
-# T-FLIPFLOP-POSEDGE
+![image](https://github.com/user-attachments/assets/9d1fd060-1486-4f93-8ace-db27d4bec4ca)# T-FLIPFLOP-POSEDGE
 
 **AIM:**
 
@@ -58,7 +58,8 @@ Developed by:Rohith V RegisterNumber:24900447
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
 
-![WhatsApp Image 2024-12-25 at 09 47 01_943dca3b](https://github.com/user-attachments/assets/ddc4bdb0-dbfd-4eda-9039-53a2e5e0d370)
+![Screenshot 2025-01-03 104811](https://github.com/user-attachments/assets/ed13cd93-7a55-42a5-b5ea-391a1df7cd52)
+
 
 
 **RESULTS**
